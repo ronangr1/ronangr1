@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my Name is Ronan
+
+I define myself as a swiss army knife operating in the magento 2 ecosystem and am a proud [Member of the .phtml gang](https://github.com/ronangr1/magegang)!
+
+I have 5 years of experience as a Magento 2 developer but I have been involved in the ecommerce industry since 2008.
+
+I'm currently working on a [guide](https://github.com/ronangr1/M2-TechnicalInterviewsResources) for Magento 2 developers who want to make their technical interviews easier.
+
+I am always looking for an international experience with nice people. So if you want to work with a French guy who wants to go overseas, feel free to write me a message!
+
+📫 How to reach me (only if you have crusty chocolate): [@ronangr1](https://twitter.com/ronangr1)
 
 <!--
 **ronangr1/ronangr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
