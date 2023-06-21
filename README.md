@@ -4,7 +4,7 @@ I define myself as a swiss army knife operating in the magento 2 ecosystem and a
 
 I have 5 years of experience as a Magento 2 developer but I have been involved in the ecommerce industry since 2008.
 
-I'm currently working on a [guide](https://github.com/ronangr1/M2-TechnicalInterviewsResources) for Magento 2 developers who want to make their technical interviews easier.
+I'm currently working on a [guide](https://github.com/ronangr1/M2-TechnicalInterviewsResources) for Magento 2 developers who want to face their technical interviews with greater peace of mind.
 
 I am always looking for an international experience with nice people. So if you want to work with a French guy who wants to go overseas, feel free to write me a message!
 
