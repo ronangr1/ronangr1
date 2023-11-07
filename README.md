@@ -1,6 +1,6 @@
 ### Hi there 👋, my Name is Ronan
 
-I define myself as a swiss army knife operating in the magento 2 ecosystem and am a proud [Member of the .phtml gang](https://github.com/ronangr1/magegang)!
+I define myself as a swiss army knife operating in the magento 2 ecosystem and am a proud [Member of the .phtml gang](https://join.magegang.com)!
 
 I have 5 years of experience as a Magento 2 developer but I have been involved in the ecommerce industry since 2008.
 
