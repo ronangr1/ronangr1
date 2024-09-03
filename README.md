@@ -1,4 +1,4 @@
-### Hi there 👋, my Name is Ronan andI've been playing with Magento since 2017
+### Hi there 👋, my Name is Ronan and I've been playing with Magento since 2017
 
 I am the humble creator of the "Fart To Cart" module for Magento 2, and also the mind behind Hoodoor, a passwordless 3rd-party login plugin for Magento 2.
 
