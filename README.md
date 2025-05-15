@@ -2,8 +2,6 @@
 
 I am the humble creator of the "Fart To Cart" module for Magento 2, and also the mind behind Hoodoor, a passwordless 3rd-party login plugin for Magento 2.
 
-I'm looking for a job in order to write a new chapter of my working life.
-
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ronangr1/)
 
 <!--
