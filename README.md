@@ -29,5 +29,3 @@ I like writing code and making things work.
 Open to new opportunities, interesting projects and meeting great people.
 
 **Based in France · Open to relocation**
-
-*What if the next great project starts here?*
